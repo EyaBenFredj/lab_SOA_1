@@ -190,15 +190,5 @@ Compared to SOAP, this RESTful service offers:
 * 🧼 Simplified input validation
 * ⚡ Faster iteration with modern tooling
 
----
 
-## 📎 Related Parts
-
-* **Part 1:** Monolithic PyQt + SQLAlchemy + GUI
-* **Part 2:** SOAP Web Service using Spyne
-* ✅ **Part 3:** (this one) RESTful FastAPI with Docker
-
-
-Let me know if you want me to generate the full folder structure and files too.
-```
 
