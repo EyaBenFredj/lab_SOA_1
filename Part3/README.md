@@ -1,8 +1,4 @@
-Here’s the **GitHub-ready README.md** code for **Part 3 — RESTful Webservice with FastAPI**. It includes **placeholders where you can insert your screenshots** (you can upload the images to your repo and replace the placeholders with actual paths).
 
----
-
-````md
 # 📦 Part 3 — RESTful Webservice (FastAPI + PostgreSQL + Docker)
 
 ## 🔍 Overview
@@ -205,3 +201,4 @@ Compared to SOAP, this RESTful service offers:
 
 Let me know if you want me to generate the full folder structure and files too.
 ```
+
