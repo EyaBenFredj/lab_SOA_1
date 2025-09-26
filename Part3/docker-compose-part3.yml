@@ -1,0 +1,17 @@
+# docker-compose-part3.yml
+services:
+  db:
+    image: postgres:15
+    container_name: inventory_db_rest
+    restart: always
+    environment:
+      POSTGRES_USER: inventory
+      POSTGRES_PASSWORD: inventory
+      POSTGRES_DB: inventory
+    ports:
+      - "5435:5432"
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+
+volumes:
+  pgdata:
